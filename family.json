@@ -1,0 +1,6 @@
+{ "members" : [
+    {"firstname":"Peter", "lastname":"Muster"}, 
+    {"firstname":"Petra", "lastname":"Muster"}, 
+    {"firstname":"Anna", "lastname":"Muster"}
+	]
+}
